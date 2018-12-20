@@ -17,7 +17,7 @@
 [download-image]: https://img.shields.io/npm/dm/dotgitconfig.svg?style=flat-square
 [download-url]: https://npmjs.org/package/dotgitconfig
 
-> dotgitconfig
+> get .git/config as an object
 
 ## Installment
 

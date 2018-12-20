@@ -1,7 +1,7 @@
 {
   "name": "dotgitconfig",
   "version": "1.0.1",
-  "description": "get .git/config",
+  "description": "get .git/config as an object",
   "keywords": [
     "git",
     "config"
